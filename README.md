@@ -5,7 +5,7 @@
 
 ### Hi there 👋
 
-I'm **Mo'men**, a Python developer (20 y/o) focused on automation, APIs, and building practical tools.  
+I'm **Mo'men**, a Python developer focused on automation, APIs, and building practical tools.  
 I enjoy creating bots, scrapers, and automation scripts that solve real problems.
 
 ---
