@@ -6,8 +6,6 @@
 
 </div>
 
----
-
 ## 🧩 About Me
 I'm **Mo'men**, a Python developer (20 y/o) focused on automation, APIs, and building practical tools.  
 I enjoy creating bots, scrapers, and automation scripts that solve real problems.
@@ -21,28 +19,10 @@ I enjoy creating bots, scrapers, and automation scripts that solve real problems
 - **BeautifulSoup**  
 - **Selenium (Web Automation)**  
 - **GUI Automation**   
-- **Discord bots & webhooks**  
-
----
-
-## 🌱 Currently Learning
-- Advanced automation workflows  
-- Better project structuring  
-- Real-world Python applications  
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=iloveTheRain&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iloveTheRain&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-
-</div>
+- **Discord bots & webhooks**
 
 ---
 
 ## 📫 Contact
 Discord: **ilovethera1n_**  
 
----
