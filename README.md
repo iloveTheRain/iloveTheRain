@@ -21,8 +21,6 @@ I enjoy creating bots, scrapers, and automation scripts that solve real problems
 - **GUI Automation**   
 - **Discord bots & webhooks**
 
-________________
-
 ## 📫 Contact
 Discord: **ilovethera1n_**  
 
