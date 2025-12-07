@@ -11,7 +11,7 @@ I'm **Mo'men**, a Python developer focused on automation, APIs, and building pra
 I enjoy creating bots, scrapers, and automation scripts that solve real problems.
 
 🌧 **Life Motto:**  
-*`"Life’s not about waiting for the storms to pass it’s about dancing in the rain."`*
+*`"Life isn't about waiting for the storm to pass... It's about learning to dance in the rain."`*
 
 ## 🛠 Tech I Work With
 
