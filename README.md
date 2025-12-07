@@ -23,4 +23,5 @@ I enjoy creating bots, scrapers, and automation scripts that solve real problems
 ---
 
 ## 📫 Contact
-Discord: **ilovethera1n_**  
+Discord: **ilovethera1n_** 
+Email **dyingxplaz@gmail.com**
