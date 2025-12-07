@@ -33,4 +33,4 @@ I enjoy creating bots, scrapers, and automation scripts that solve real problems
 ---
 ## 🌟 Fun Fact  
 
-“The sky sends over 27,000 gallons per acre per inch. My code drinks it all. ☕💻”
+`“The sky sends over 27,000 gallons per acre per inch. My code drinks it all. ☕💻”`
