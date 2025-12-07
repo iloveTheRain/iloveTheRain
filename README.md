@@ -10,6 +10,9 @@
 I'm **Mo'men**, a Python developer focused on automation, APIs, and building practical tools.  
 I enjoy creating bots, scrapers, and automation scripts that solve real problems.
 
+🌧 **Life Motto:**  
+*`"Life’s not about waiting for the storms to pass it’s about dancing in the rain."`*
+
 ## 🛠 Tech I Work With
 
 - 🐍 **Python**  
