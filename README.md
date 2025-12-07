@@ -28,3 +28,9 @@ I enjoy creating bots, scrapers, and automation scripts that solve real problems
 ## 📫 Contact
 - Discord: **`ilovethera1n_`** 
 - Email **`dyingxplaz@gmail.com`**
+
+
+---
+## 🌟 Fun Fact  
+
+I love rainy days so much, I sometimes listen to the sound of rain while coding to stay focused and relaxed. ☔
